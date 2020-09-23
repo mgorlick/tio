@@ -1,0 +1,51 @@
+setspeed2.o: setspeed2.c \
+ /home/mgorlick/.guix-profile/include/stdc-predef.h \
+ /home/mgorlick/.guix-profile/include/sys/ioctl.h \
+ /home/mgorlick/.guix-profile/include/features.h \
+ /home/mgorlick/.guix-profile/include/sys/cdefs.h \
+ /home/mgorlick/.guix-profile/include/bits/wordsize.h \
+ /home/mgorlick/.guix-profile/include/bits/long-double.h \
+ /home/mgorlick/.guix-profile/include/gnu/stubs.h \
+ /home/mgorlick/.guix-profile/include/gnu/stubs-64.h \
+ /home/mgorlick/.guix-profile/include/bits/ioctls.h \
+ /home/mgorlick/.guix-profile/include/asm/ioctls.h \
+ /home/mgorlick/.guix-profile/include/asm-generic/ioctls.h \
+ /home/mgorlick/.guix-profile/include/linux/ioctl.h \
+ /home/mgorlick/.guix-profile/include/asm/ioctl.h \
+ /home/mgorlick/.guix-profile/include/asm-generic/ioctl.h \
+ /home/mgorlick/.guix-profile/include/bits/ioctl-types.h \
+ /home/mgorlick/.guix-profile/include/sys/ttydefaults.h \
+ /home/mgorlick/.guix-profile/include/asm/termbits.h \
+ /home/mgorlick/.guix-profile/include/asm-generic/termbits.h \
+ /home/mgorlick/.guix-profile/include/linux/posix_types.h \
+ /home/mgorlick/.guix-profile/include/linux/stddef.h \
+ /home/mgorlick/.guix-profile/include/asm/posix_types.h \
+ /home/mgorlick/.guix-profile/include/asm/posix_types_64.h \
+ /home/mgorlick/.guix-profile/include/asm-generic/posix_types.h \
+ /home/mgorlick/.guix-profile/include/asm/bitsperlong.h \
+ /home/mgorlick/.guix-profile/include/asm-generic/bitsperlong.h
+/home/mgorlick/.guix-profile/include/stdc-predef.h:
+/home/mgorlick/.guix-profile/include/sys/ioctl.h:
+/home/mgorlick/.guix-profile/include/features.h:
+/home/mgorlick/.guix-profile/include/sys/cdefs.h:
+/home/mgorlick/.guix-profile/include/bits/wordsize.h:
+/home/mgorlick/.guix-profile/include/bits/long-double.h:
+/home/mgorlick/.guix-profile/include/gnu/stubs.h:
+/home/mgorlick/.guix-profile/include/gnu/stubs-64.h:
+/home/mgorlick/.guix-profile/include/bits/ioctls.h:
+/home/mgorlick/.guix-profile/include/asm/ioctls.h:
+/home/mgorlick/.guix-profile/include/asm-generic/ioctls.h:
+/home/mgorlick/.guix-profile/include/linux/ioctl.h:
+/home/mgorlick/.guix-profile/include/asm/ioctl.h:
+/home/mgorlick/.guix-profile/include/asm-generic/ioctl.h:
+/home/mgorlick/.guix-profile/include/bits/ioctl-types.h:
+/home/mgorlick/.guix-profile/include/sys/ttydefaults.h:
+/home/mgorlick/.guix-profile/include/asm/termbits.h:
+/home/mgorlick/.guix-profile/include/asm-generic/termbits.h:
+/home/mgorlick/.guix-profile/include/linux/posix_types.h:
+/home/mgorlick/.guix-profile/include/linux/stddef.h:
+/home/mgorlick/.guix-profile/include/asm/posix_types.h:
+/home/mgorlick/.guix-profile/include/asm/posix_types_64.h:
+/home/mgorlick/.guix-profile/include/asm-generic/posix_types.h:
+/home/mgorlick/.guix-profile/include/asm/bitsperlong.h:
+/home/mgorlick/.guix-profile/include/asm-generic/bitsperlong.h:

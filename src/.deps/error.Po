@@ -1,0 +1,222 @@
+error.o: error.c /home/mgorlick/.guix-profile/include/stdc-predef.h \
+ ../src/include/config.h /home/mgorlick/.guix-profile/include/stdio.h \
+ /home/mgorlick/.guix-profile/include/bits/libc-header-start.h \
+ /home/mgorlick/.guix-profile/include/features.h \
+ /home/mgorlick/.guix-profile/include/sys/cdefs.h \
+ /home/mgorlick/.guix-profile/include/bits/wordsize.h \
+ /home/mgorlick/.guix-profile/include/bits/long-double.h \
+ /home/mgorlick/.guix-profile/include/gnu/stubs.h \
+ /home/mgorlick/.guix-profile/include/gnu/stubs-64.h \
+ /gnu/store/qj38f3vi4q1d7z30hkpaxyajv49rwamb-gcc-10.2.0-lib/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include/stddef.h \
+ /gnu/store/qj38f3vi4q1d7z30hkpaxyajv49rwamb-gcc-10.2.0-lib/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include/stdarg.h \
+ /home/mgorlick/.guix-profile/include/bits/types.h \
+ /home/mgorlick/.guix-profile/include/bits/timesize.h \
+ /home/mgorlick/.guix-profile/include/bits/typesizes.h \
+ /home/mgorlick/.guix-profile/include/bits/time64.h \
+ /home/mgorlick/.guix-profile/include/bits/types/__fpos_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/__mbstate_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/__fpos64_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/__FILE.h \
+ /home/mgorlick/.guix-profile/include/bits/types/FILE.h \
+ /home/mgorlick/.guix-profile/include/bits/types/struct_FILE.h \
+ /home/mgorlick/.guix-profile/include/bits/stdio_lim.h \
+ /home/mgorlick/.guix-profile/include/bits/sys_errlist.h \
+ /home/mgorlick/.guix-profile/include/bits/stdio.h \
+ /home/mgorlick/.guix-profile/include/stdlib.h \
+ /home/mgorlick/.guix-profile/include/bits/waitflags.h \
+ /home/mgorlick/.guix-profile/include/bits/waitstatus.h \
+ /home/mgorlick/.guix-profile/include/bits/floatn.h \
+ /home/mgorlick/.guix-profile/include/bits/floatn-common.h \
+ /home/mgorlick/.guix-profile/include/sys/types.h \
+ /home/mgorlick/.guix-profile/include/bits/types/clock_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/clockid_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/time_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/timer_t.h \
+ /home/mgorlick/.guix-profile/include/bits/stdint-intn.h \
+ /home/mgorlick/.guix-profile/include/endian.h \
+ /home/mgorlick/.guix-profile/include/bits/endian.h \
+ /home/mgorlick/.guix-profile/include/bits/endianness.h \
+ /home/mgorlick/.guix-profile/include/bits/byteswap.h \
+ /home/mgorlick/.guix-profile/include/bits/uintn-identity.h \
+ /home/mgorlick/.guix-profile/include/sys/select.h \
+ /home/mgorlick/.guix-profile/include/bits/select.h \
+ /home/mgorlick/.guix-profile/include/bits/types/sigset_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/__sigset_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/struct_timeval.h \
+ /home/mgorlick/.guix-profile/include/bits/types/struct_timespec.h \
+ /home/mgorlick/.guix-profile/include/bits/pthreadtypes.h \
+ /home/mgorlick/.guix-profile/include/bits/thread-shared-types.h \
+ /home/mgorlick/.guix-profile/include/bits/pthreadtypes-arch.h \
+ /home/mgorlick/.guix-profile/include/bits/struct_mutex.h \
+ /home/mgorlick/.guix-profile/include/bits/struct_rwlock.h \
+ /home/mgorlick/.guix-profile/include/alloca.h \
+ /home/mgorlick/.guix-profile/include/bits/stdlib-bsearch.h \
+ /home/mgorlick/.guix-profile/include/bits/stdlib-float.h \
+ /home/mgorlick/.guix-profile/include/string.h \
+ /home/mgorlick/.guix-profile/include/bits/types/locale_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/__locale_t.h \
+ /home/mgorlick/.guix-profile/include/strings.h \
+ /home/mgorlick/.guix-profile/include/errno.h \
+ /home/mgorlick/.guix-profile/include/bits/errno.h \
+ /home/mgorlick/.guix-profile/include/linux/errno.h \
+ /home/mgorlick/.guix-profile/include/asm/errno.h \
+ /home/mgorlick/.guix-profile/include/asm-generic/errno.h \
+ /home/mgorlick/.guix-profile/include/asm-generic/errno-base.h \
+ ../src/include/tio/options.h \
+ /gnu/store/qj38f3vi4q1d7z30hkpaxyajv49rwamb-gcc-10.2.0-lib/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include/stdbool.h \
+ /home/mgorlick/.guix-profile/include/limits.h \
+ /gnu/store/qj38f3vi4q1d7z30hkpaxyajv49rwamb-gcc-10.2.0-lib/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include-fixed/limits.h \
+ /home/mgorlick/.guix-profile/include/bits/posix1_lim.h \
+ /home/mgorlick/.guix-profile/include/bits/local_lim.h \
+ /home/mgorlick/.guix-profile/include/linux/limits.h \
+ /home/mgorlick/.guix-profile/include/bits/posix2_lim.h \
+ /home/mgorlick/.guix-profile/include/termios.h \
+ /home/mgorlick/.guix-profile/include/bits/termios.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-struct.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-c_cc.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-c_iflag.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-c_oflag.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-baud.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-c_cflag.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-c_lflag.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-tcflow.h \
+ /home/mgorlick/.guix-profile/include/bits/termios-misc.h \
+ /home/mgorlick/.guix-profile/include/sys/ttydefaults.h \
+ /home/mgorlick/.guix-profile/include/sys/param.h \
+ /home/mgorlick/.guix-profile/include/signal.h \
+ /home/mgorlick/.guix-profile/include/bits/signum.h \
+ /home/mgorlick/.guix-profile/include/bits/signum-generic.h \
+ /home/mgorlick/.guix-profile/include/bits/types/sig_atomic_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/siginfo_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/__sigval_t.h \
+ /home/mgorlick/.guix-profile/include/bits/siginfo-arch.h \
+ /home/mgorlick/.guix-profile/include/bits/siginfo-consts.h \
+ /home/mgorlick/.guix-profile/include/bits/types/sigval_t.h \
+ /home/mgorlick/.guix-profile/include/bits/types/sigevent_t.h \
+ /home/mgorlick/.guix-profile/include/bits/sigevent-consts.h \
+ /home/mgorlick/.guix-profile/include/bits/sigaction.h \
+ /home/mgorlick/.guix-profile/include/bits/sigcontext.h \
+ /home/mgorlick/.guix-profile/include/bits/types/stack_t.h \
+ /home/mgorlick/.guix-profile/include/sys/ucontext.h \
+ /home/mgorlick/.guix-profile/include/bits/sigstack.h \
+ /home/mgorlick/.guix-profile/include/bits/ss_flags.h \
+ /home/mgorlick/.guix-profile/include/bits/types/struct_sigstack.h \
+ /home/mgorlick/.guix-profile/include/bits/sigthread.h \
+ /home/mgorlick/.guix-profile/include/bits/signal_ext.h \
+ /home/mgorlick/.guix-profile/include/bits/param.h \
+ /home/mgorlick/.guix-profile/include/linux/param.h \
+ /home/mgorlick/.guix-profile/include/asm/param.h \
+ /home/mgorlick/.guix-profile/include/asm-generic/param.h \
+ ../src/include/tio/print.h ../src/include/tio/error.h
+/home/mgorlick/.guix-profile/include/stdc-predef.h:
+../src/include/config.h:
+/home/mgorlick/.guix-profile/include/stdio.h:
+/home/mgorlick/.guix-profile/include/bits/libc-header-start.h:
+/home/mgorlick/.guix-profile/include/features.h:
+/home/mgorlick/.guix-profile/include/sys/cdefs.h:
+/home/mgorlick/.guix-profile/include/bits/wordsize.h:
+/home/mgorlick/.guix-profile/include/bits/long-double.h:
+/home/mgorlick/.guix-profile/include/gnu/stubs.h:
+/home/mgorlick/.guix-profile/include/gnu/stubs-64.h:
+/gnu/store/qj38f3vi4q1d7z30hkpaxyajv49rwamb-gcc-10.2.0-lib/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include/stddef.h:
+/gnu/store/qj38f3vi4q1d7z30hkpaxyajv49rwamb-gcc-10.2.0-lib/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include/stdarg.h:
+/home/mgorlick/.guix-profile/include/bits/types.h:
+/home/mgorlick/.guix-profile/include/bits/timesize.h:
+/home/mgorlick/.guix-profile/include/bits/typesizes.h:
+/home/mgorlick/.guix-profile/include/bits/time64.h:
+/home/mgorlick/.guix-profile/include/bits/types/__fpos_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/__mbstate_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/__fpos64_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/__FILE.h:
+/home/mgorlick/.guix-profile/include/bits/types/FILE.h:
+/home/mgorlick/.guix-profile/include/bits/types/struct_FILE.h:
+/home/mgorlick/.guix-profile/include/bits/stdio_lim.h:
+/home/mgorlick/.guix-profile/include/bits/sys_errlist.h:
+/home/mgorlick/.guix-profile/include/bits/stdio.h:
+/home/mgorlick/.guix-profile/include/stdlib.h:
+/home/mgorlick/.guix-profile/include/bits/waitflags.h:
+/home/mgorlick/.guix-profile/include/bits/waitstatus.h:
+/home/mgorlick/.guix-profile/include/bits/floatn.h:
+/home/mgorlick/.guix-profile/include/bits/floatn-common.h:
+/home/mgorlick/.guix-profile/include/sys/types.h:
+/home/mgorlick/.guix-profile/include/bits/types/clock_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/clockid_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/time_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/timer_t.h:
+/home/mgorlick/.guix-profile/include/bits/stdint-intn.h:
+/home/mgorlick/.guix-profile/include/endian.h:
+/home/mgorlick/.guix-profile/include/bits/endian.h:
+/home/mgorlick/.guix-profile/include/bits/endianness.h:
+/home/mgorlick/.guix-profile/include/bits/byteswap.h:
+/home/mgorlick/.guix-profile/include/bits/uintn-identity.h:
+/home/mgorlick/.guix-profile/include/sys/select.h:
+/home/mgorlick/.guix-profile/include/bits/select.h:
+/home/mgorlick/.guix-profile/include/bits/types/sigset_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/__sigset_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/struct_timeval.h:
+/home/mgorlick/.guix-profile/include/bits/types/struct_timespec.h:
+/home/mgorlick/.guix-profile/include/bits/pthreadtypes.h:
+/home/mgorlick/.guix-profile/include/bits/thread-shared-types.h:
+/home/mgorlick/.guix-profile/include/bits/pthreadtypes-arch.h:
+/home/mgorlick/.guix-profile/include/bits/struct_mutex.h:
+/home/mgorlick/.guix-profile/include/bits/struct_rwlock.h:
+/home/mgorlick/.guix-profile/include/alloca.h:
+/home/mgorlick/.guix-profile/include/bits/stdlib-bsearch.h:
+/home/mgorlick/.guix-profile/include/bits/stdlib-float.h:
+/home/mgorlick/.guix-profile/include/string.h:
+/home/mgorlick/.guix-profile/include/bits/types/locale_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/__locale_t.h:
+/home/mgorlick/.guix-profile/include/strings.h:
+/home/mgorlick/.guix-profile/include/errno.h:
+/home/mgorlick/.guix-profile/include/bits/errno.h:
+/home/mgorlick/.guix-profile/include/linux/errno.h:
+/home/mgorlick/.guix-profile/include/asm/errno.h:
+/home/mgorlick/.guix-profile/include/asm-generic/errno.h:
+/home/mgorlick/.guix-profile/include/asm-generic/errno-base.h:
+../src/include/tio/options.h:
+/gnu/store/qj38f3vi4q1d7z30hkpaxyajv49rwamb-gcc-10.2.0-lib/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include/stdbool.h:
+/home/mgorlick/.guix-profile/include/limits.h:
+/gnu/store/qj38f3vi4q1d7z30hkpaxyajv49rwamb-gcc-10.2.0-lib/lib/gcc/x86_64-unknown-linux-gnu/10.2.0/include-fixed/limits.h:
+/home/mgorlick/.guix-profile/include/bits/posix1_lim.h:
+/home/mgorlick/.guix-profile/include/bits/local_lim.h:
+/home/mgorlick/.guix-profile/include/linux/limits.h:
+/home/mgorlick/.guix-profile/include/bits/posix2_lim.h:
+/home/mgorlick/.guix-profile/include/termios.h:
+/home/mgorlick/.guix-profile/include/bits/termios.h:
+/home/mgorlick/.guix-profile/include/bits/termios-struct.h:
+/home/mgorlick/.guix-profile/include/bits/termios-c_cc.h:
+/home/mgorlick/.guix-profile/include/bits/termios-c_iflag.h:
+/home/mgorlick/.guix-profile/include/bits/termios-c_oflag.h:
+/home/mgorlick/.guix-profile/include/bits/termios-baud.h:
+/home/mgorlick/.guix-profile/include/bits/termios-c_cflag.h:
+/home/mgorlick/.guix-profile/include/bits/termios-c_lflag.h:
+/home/mgorlick/.guix-profile/include/bits/termios-tcflow.h:
+/home/mgorlick/.guix-profile/include/bits/termios-misc.h:
+/home/mgorlick/.guix-profile/include/sys/ttydefaults.h:
+/home/mgorlick/.guix-profile/include/sys/param.h:
+/home/mgorlick/.guix-profile/include/signal.h:
+/home/mgorlick/.guix-profile/include/bits/signum.h:
+/home/mgorlick/.guix-profile/include/bits/signum-generic.h:
+/home/mgorlick/.guix-profile/include/bits/types/sig_atomic_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/siginfo_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/__sigval_t.h:
+/home/mgorlick/.guix-profile/include/bits/siginfo-arch.h:
+/home/mgorlick/.guix-profile/include/bits/siginfo-consts.h:
+/home/mgorlick/.guix-profile/include/bits/types/sigval_t.h:
+/home/mgorlick/.guix-profile/include/bits/types/sigevent_t.h:
+/home/mgorlick/.guix-profile/include/bits/sigevent-consts.h:
+/home/mgorlick/.guix-profile/include/bits/sigaction.h:
+/home/mgorlick/.guix-profile/include/bits/sigcontext.h:
+/home/mgorlick/.guix-profile/include/bits/types/stack_t.h:
+/home/mgorlick/.guix-profile/include/sys/ucontext.h:
+/home/mgorlick/.guix-profile/include/bits/sigstack.h:
+/home/mgorlick/.guix-profile/include/bits/ss_flags.h:
+/home/mgorlick/.guix-profile/include/bits/types/struct_sigstack.h:
+/home/mgorlick/.guix-profile/include/bits/sigthread.h:
+/home/mgorlick/.guix-profile/include/bits/signal_ext.h:
+/home/mgorlick/.guix-profile/include/bits/param.h:
+/home/mgorlick/.guix-profile/include/linux/param.h:
+/home/mgorlick/.guix-profile/include/asm/param.h:
+/home/mgorlick/.guix-profile/include/asm-generic/param.h:
+../src/include/tio/print.h:
+../src/include/tio/error.h:
